@@ -12,7 +12,7 @@
 - IDE / Editor: Visual Studio Code (C# Dev Kit)
 - VCS: Git
 
-_(Chèn ảnh chụp Terminal có lệnh `dotnet --version`, `git --version` và chữ `Hello, World!` vào đây)_
+![Ảnh môi trường cài đặt](./images/step4.png)
 
 ---
 
@@ -37,7 +37,7 @@ _(Chèn ảnh chụp Terminal có lệnh `dotnet --version`, `git --version` và
 
 ## 3. Web API cơ bản - BasicWebApi (Bước 8)
 
-_(Chèn ảnh chụp giao diện REST Client chạy requests.http hiển thị phản hồi 200 OK, 201 Created và 400 Bad Request vào đây)_
+![Ảnh môi trường cài đặt](./images/step4.png)
 
 ### Trả lời câu hỏi thu hoạch:
 
@@ -52,7 +52,7 @@ _(Chèn ảnh chụp giao diện REST Client chạy requests.http hiển thị p
 
 ## 4. Hệ thống phân tán nhỏ - MiniDistributedSystem (Bước 9)
 
-_(Chèn ảnh chụp màn hình VS Code chia đôi 2 Terminal: API và Client vào đây)_
+![Ảnh môi trường cài đặt](./images/step4.png)
 
 ### Trả lời câu hỏi thu hoạch:
 
@@ -79,7 +79,7 @@ _(Chèn ảnh chụp màn hình VS Code chia đôi 2 Terminal: API và Client v�
 
 ## 6. Dự án EduSubmit tự làm (Bước 11 & 12)
 
-_(Chèn ảnh chụp màn hình 2 Terminal chạy dự án EduSubmit với tính năng tra cứu GET /api/submissions/{id} thành công vào đây)_
+![Ảnh môi trường cài đặt](./images/step4.png)
 
 ### Luồng thông điệp trong hệ thống EduSubmit:
 
